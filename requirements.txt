@@ -1,0 +1,8 @@
+streamlit>=1.40,<2
+playwright>=1.45
+beautifulsoup4>=4.12
+requests>=2.31
+pandas>=2.2
+openpyxl>=3.1
+phonenumbers>=8.13
+dnspython>=2.6
